@@ -29,7 +29,7 @@
 <hr>
 <div> 
 <a align="right" href="https://picasion.com/"><img src="https://i.picasion.com/pic92/844c84ac22e2bf5b394f5241c84e02f5.gif" width="240" height="230" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-<a href="[https://instagram.com/aramis_jesuss/]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/aramis_jesuss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/aramis-jesus-a63586263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
